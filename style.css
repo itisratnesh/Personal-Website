@@ -1,0 +1,38 @@
+.profile-picture {
+    height: 150px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+hr{
+    /* padding: 10px;
+    margin: 10px; */
+    border: 4px dotted;
+}
+.hero{
+    padding-top: 50px;
+    background-color: #C4DFDF;
+    color: #242121;
+}
+html{
+    /* padding-top: -100px; */
+    margin-top: -50px;
+}
+.my-skill{
+    background-color: #D2E9E9;
+}
+.container{
+    background-color: #D2E9E9;
+}
+/* .bghero{
+    height: 800px;
+    width: auto;
+} */
+body{
+    background-color: #D2E9E9;
+}
